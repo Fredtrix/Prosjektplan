@@ -1,0 +1,135 @@
+*{ /* Gjelder alt */
+
+	font-family: tahoma; /* VIKTIG, Ingen stygg standard tekst her! */
+	color: black;
+	
+}
+
+article{
+
+	text-align: center;
+	color: black;
+	box-shadow: 3px 3px 3px;
+	background-color: gray;
+	border-radius: 25px;
+	padding: 15px;
+	margin-bottom: 50px;
+	width: 100%;
+	
+}
+
+p{
+	background-color:white;
+	color:	black;
+	border-radius: 25px;
+	padding: 15px;
+	text-align: left;
+	
+}
+
+h1{
+
+	font-size:30px;
+	text-align:center;
+	color:black;
+	
+}
+
+h3{
+
+	font-size: 15px;
+	text-align:center;
+	font-style: italic;
+	
+}
+
+body{
+
+	color:white;
+	
+}
+
+h2{
+
+	font-size:22px;
+	color:black;
+	text-align:center;
+	
+}
+
+footer{
+
+	border: solid black 2px;
+	background-color:white;
+	text-align: center;
+	color:black;
+	padding: 15px;
+	width: 100%;
+	
+}
+
+section{
+
+	width:70%;
+	margin-left: auto;
+	margin-right: auto;
+	
+}
+
+ul > li{
+
+	text-align: left;
+}
+
+#tekliste > h2{
+
+	text-align: left;
+	font-size: 18px;
+	
+}
+
+#tekliste{
+
+	display: block;
+	background-color:white;
+	border-radius: 25px;
+	padding: 15px;
+	text-align: left;
+	
+}
+
+#funkliste > h2{
+
+	text-align: left;
+	font-size: 18px;
+	
+}
+
+#funkliste{
+
+	display: block;
+	background-color: white;
+	border-radius: 25px;
+	padding: 15px;
+	text-align: left;
+	
+}
+
+#arbliste > h2{
+
+	text-align: left;
+	font-size: 18px;
+	
+}
+
+#arbliste{
+
+	display: block;
+	background-color:white;
+	border-radius: 25px;
+	padding: 15px;
+	text-align: left;
+	
+}
+
+
